@@ -1,0 +1,21 @@
+.hero{
+    max-width: 95%;
+    min-width: 400px;
+    margin: 50px auto;
+    text-align: center;
+    line-height: 50px;
+    padding: 30px;
+    background-color: #e0ffff;
+    border: 2px solid #dcdcdc;
+    border-radius: 15px;
+}
+
+.para{
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.heading {
+    font-size: 24px;
+    margin: 10px 0;
+}
