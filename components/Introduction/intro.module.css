@@ -1,0 +1,46 @@
+.container {
+  display: flex;
+  max-width: 1200px;
+  height: 80vh;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.mainContent {
+  padding: 60px 0;
+  text-align: center;
+}
+
+.intro h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.intro p {
+  font-size: 18px;
+  margin-bottom: 30px;
+  color: #666;
+}
+
+.subText {
+  font-size: 16px;
+  margin-bottom: 40px;
+  color: #555;
+}
+
+.ctaButton {
+  padding: 12px 24px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.ctaButton:hover {
+  background-color: #0056b3;
+}
